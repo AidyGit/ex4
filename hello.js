@@ -8,5 +8,5 @@ const a=()=>{
 
 const b=()=>{
     const a = s
-    return 5
+    return "5"
 }
